@@ -1,0 +1,13 @@
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bin\Debug\resources.pri
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bin\Debug\AppxManifest.xml
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bin\Debug\SameBoat.build.appxrecipe
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\priconfig.xml.intermediate
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\layout.resfiles.intermediate
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\resources.resfiles.intermediate
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\pri.resfiles.intermediate
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\priconfig.xml
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\layout.resfiles
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\resources.resfiles
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\pri.resfiles
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\LanguageQualifiers.txt
+C:\Users\sophiapark\Visual Studio\SameBoat\SameBoat\bld\Debug\ProjectArchitectures.txt
